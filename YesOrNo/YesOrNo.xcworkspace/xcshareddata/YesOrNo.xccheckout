@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5D8F7383-31D6-4F26-A379-C6E916D202D1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YesOrNo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>479B8DD0AB0B1ED2092B7B1DBD91553D41D968F2</key>
+		<string>https://github.com/tinyMo/YesOrNo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>YesOrNo/YesOrNo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>479B8DD0AB0B1ED2092B7B1DBD91553D41D968F2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tinyMo/YesOrNo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>479B8DD0AB0B1ED2092B7B1DBD91553D41D968F2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>479B8DD0AB0B1ED2092B7B1DBD91553D41D968F2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>YesOrNo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
